@@ -1,0 +1,5 @@
+.wp-facethumb-gallery table{border-collapse:separate;border-spacing:2px;}
+.wp-facethumb-gallery td{border:1px dashed #cbcbcb;padding:0;margin:5px;text-align:center;}
+.wp-facethumb-gallery img{margin:10px;padding:0;}
+.pagination-wp-facethumb a{text-decoration:none;border:1px solid #E3E3E3;padding:3px 6px;color:#1982D1;border-radius:3px;background-color:#EEEEEE;}
+.pagination-wp-facethumb a.disabled,.pagination-wp-facethumb a.disabled:hover,.pagination-wp-facethumb a.disabled:focus{cursor:default;color:#CECECE;}

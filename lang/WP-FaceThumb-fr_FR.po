@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-FaceThumb\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-09-26 22:45+0100\n"
+"PO-Revision-Date: 2011-09-27 00:20+0100\n"
+"Last-Translator: mnttech <contact@mnt-tech.fr>\n"
+"Language-Team: mnttech <contact@mnt-tech.fr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: E:\\MNTT\\Wordpress\\Plugins\\wp-facethumb\n"
+
+#: E:\MNTT\Wordpress\Plugins\wp-facethumb/wp-facethumb.php:149
+#: E:\MNTT\Wordpress\Plugins\wp-facethumb/wp-facethumb.php:481
+msgid "Manage Gallery"
+msgstr "Gestion de la Galerie"
+
+#: E:\MNTT\Wordpress\Plugins\wp-facethumb/wp-facethumb.php:151
+msgid " thumbnail(s) deleted."
+msgstr " photo(s) effacées"
+
+#: E:\MNTT\Wordpress\Plugins\wp-facethumb/wp-facethumb.php:183
+msgid "Sorry, no photos have been taken yet!"
+msgstr "Désolé, aucune photo n'a été prise pour le moment!"
+
+#: E:\MNTT\Wordpress\Plugins\wp-facethumb/wp-facethumb.php:208
+msgid "the "
+msgstr "le "
+
+#: E:\MNTT\Wordpress\Plugins\wp-facethumb/wp-facethumb.php:208
+msgid " at "
+msgstr " à "
+
+#: E:\MNTT\Wordpress\Plugins\wp-facethumb/wp-facethumb.php:208
+msgid "by "
+msgstr "par "
+
+#: E:\MNTT\Wordpress\Plugins\wp-facethumb/wp-facethumb.php:245
+#: E:\MNTT\Wordpress\Plugins\wp-facethumb/wp-facethumb.php:247
+#: E:\MNTT\Wordpress\Plugins\wp-facethumb/wp-facethumb.php:258
+#: E:\MNTT\Wordpress\Plugins\wp-facethumb/wp-facethumb.php:267
+#: E:\MNTT\Wordpress\Plugins\wp-facethumb/wp-facethumb.php:277
+msgid "Pages"
+msgstr "Pages"
+
+#: E:\MNTT\Wordpress\Plugins\wp-facethumb/wp-facethumb.php:291
+msgid "Delete Thumbnails"
+msgstr "Effacer les photos"
+
+#: E:\MNTT\Wordpress\Plugins\wp-facethumb/wp-facethumb.php:480
+msgid "Options"
+msgstr "Options"
+
+#: E:\MNTT\Wordpress\Plugins\wp-facethumb/wp-facethumb.php:531
+msgid "Displays a picture taken by some of your visitor"
+msgstr "Affiche les photos prises par vos visiteur"
+
+#: E:\MNTT\Wordpress\Plugins\wp-facethumb/wp-facethumb.php:532
+msgid "Facethumb widget"
+msgstr "Widget WP-Facethumb"
+
+#: E:\MNTT\Wordpress\Plugins\wp-facethumb/wp-facethumb.php:591
+msgid "Take a snapshot"
+msgstr "Prendre une photo"
+
+#: E:\MNTT\Wordpress\Plugins\wp-facethumb/wp-facethumb.php:592
+msgid "Gallery"
+msgstr "Galerie"
+
